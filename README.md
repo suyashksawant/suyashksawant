@@ -1,11 +1,13 @@
 <h1 align="center">Hello👋, I'm Suyash Sawant</h1>
 <h3 align="center">A Software Developer From India</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 - 👯 I’m looking to collaborate on **open source**
 
 - 📫 How to reach me **suyashsawant813@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1OCaP8YnuJCkX2Qh2ngXIMSP1OSURCsLZ/view?usp=sharing](https://drive.google.com/file/d/1OCaP8YnuJCkX2Qh2ngXIMSP1OSURCsLZ/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/1OCaP8YnuJCkX2Qh2ngXIMSP1OSURCsLZ/view?usp=sharing](https://drive.google.com/file/d/1OCaP8YnuJCkX2Qh2ngXIMSP1OSURCsLZ/view?usp=sharing)
 
 - ⚡ Fun fact **Coffee tastes way better than Chai | Change my mind!**
 
