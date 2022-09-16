@@ -1,11 +1,13 @@
 <h1 align="center">Hello👋, I'm Suyash Sawant</h1>
 <h3 align="center">A Software Developer From India</h3>
 
-- 👯 I’m looking to collaborate on **open source projects.**
+- 👯 I’m looking to collaborate on **open source**
 
 - 📫 How to reach me **suyashsawant813@gmail.com**
 
 - 📄 Resume [https://drive.google.com/file/d/1OCaP8YnuJCkX2Qh2ngXIMSP1OSURCsLZ/view?usp=sharing](https://drive.google.com/file/d/1OCaP8YnuJCkX2Qh2ngXIMSP1OSURCsLZ/view?usp=sharing)
+
+- ⚡ Fun fact **Coffee tastes way better than Chai | Change my mind!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashksawant&show_icons=true&locale=en&layout=compact" alt="suyashksawant" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyashksawant&show_icons=true&locale=en" alt="suyashksawant" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyashksawant&" alt="suyashksawant" /></p>
