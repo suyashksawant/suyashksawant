@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **suyashsawant813@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OCaP8YnuJCkX2Qh2ngXIMSP1OSURCsLZ/view?usp=sharing](https://drive.google.com/file/d/1OCaP8YnuJCkX2Qh2ngXIMSP1OSURCsLZ/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1OCaP8YnuJCkX2Qh2ngXIMSP1OSURCsLZ/view?usp=sharing](https://drive.google.com/file/d/1OCaP8YnuJCkX2Qh2ngXIMSP1OSURCsLZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
